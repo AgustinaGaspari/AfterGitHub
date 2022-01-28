@@ -120,6 +120,7 @@
 
 .menu li:hover .subMenu{
     display: block;
+    background-color:white;
 }
 /*Estilo Main INDEX*/
 
